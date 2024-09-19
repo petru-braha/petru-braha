@@ -6,5 +6,3 @@
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/petru-braha) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23915645) 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=petru-braha&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
