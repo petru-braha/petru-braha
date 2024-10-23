@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> I’m currently a second year computer science student. 
+<br> I’m currently a second year student. 
 <br> My academic projects focus on: data structures, algorithms, linear algebra
 <br> As soon as these projects are completed, I'll be focusing on machine learning.
 
