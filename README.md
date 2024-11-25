@@ -1,13 +1,20 @@
-# 💫 About Me:
-<br> I’m currently a second year CS student. 
-<br> Projects's focus: data structures, algorithms, linear algebra, heuristics and statistics.
-<br> As soon as these projects are completed, I'll be focusing on machine learning.
+Welcome to my portfolio!
+The romanian version can be found [here](./README_RO.md).
 
-# 🌱 My profile contains:
-- class work
-- libraries
-- applications
-- visualizations
+# 💫 About me:
+- I’m currently a second year CS student.
+- This page possess all of my academic and personal projects, some of them being:
+  - libraries
+  - applications
+  - visualizations
+  - or even class work
+  
+# 🌱 Outstanding repositories of:
+- data structures
+- heuristics
+- statistics
+- network programming
+- linear algebra
 
 # 🔭 Areas of interest:
 - low-level programming
