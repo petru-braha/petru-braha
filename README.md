@@ -1,4 +1,5 @@
 Welcome to my portfolio!
+
 The romanian version can be found [here](./README_RO.md).
 
 # 💫 About me:
