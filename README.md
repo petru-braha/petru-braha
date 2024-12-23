@@ -1,7 +1,7 @@
 Welcome to my portfolio! The romanian version can be found [here](./README_RO.md).
 
 # 💫 About me:
-- CS student.
+- CS student
 - My page possess all of my academic and personal projects, some of them being:
   - libraries
   - applications
