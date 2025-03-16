@@ -1,6 +1,6 @@
 # 💫 Intro [en](./README.md) [ro](./README_RO.md)
 
-<p>Je résous des problèmes, je collabore et je développe des softwares avec des contributions concrètes. Je perfectionne continuellement mes compétences. <br> Mon travail consiste en des produits concrets tels que « RR-application » ou « YP-compiler » ainsi qu'en des travaux universitaires - des plongées profondes dans les facettes théoriques de l'informatique, des algorithmes et des langages de programmation.</p>
+<p>Je résous des problèmes, je collabore et je développe des softwares avec des contributions concrètes. Je perfectionne continuellement mes compétences. <br> Mon travail consiste en des produits concrets tels que «RR-application» ou «YP-compiler» ainsi qu'en des travaux universitaires - des plongées profondes dans les facettes théoriques de l'informatique, des algorithmes et des langages de programmation.</p>
 
 ## 🌱 Dépôts exceptionnels de
 - programmation en réseau
