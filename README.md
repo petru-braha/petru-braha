@@ -12,7 +12,6 @@
 
 ## 🔭 Areas of interest
 - machine learning
-- genetic algorithms
 - low-level programming
 
 ## 💻 Expertise
