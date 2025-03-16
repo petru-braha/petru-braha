@@ -1,6 +1,6 @@
 # 💫 Intro [en](./README.md) [ro](./README_RO.md)
 
-<p>Résolvez le problème, collaborez avec votre logiciel avec une réelle contribution. J'ai construit et j'ai une capacité continue de programmation. <br> Cela me permet de créer des produits concrets, avec "l'application RR" et le "compilateur YP", et je suis dans l'université de recherche - j'approfondis la théorie théorique de l'informatique, des algorithmes et des suppressions de programme.</p>
+<p>Je résous des problèmes, je collabore et je développe des softwares avec des contributions concrètes. Je perfectionne continuellement mes compétences. <br> Mon travail consiste en des produits concrets tels que « RR-application » ou « YP-compiler » ainsi qu'en des travaux universitaires - des plongées profondes dans les facettes théoriques de l'informatique, des algorithmes et des langages de programmation.</p>
 
 ## 🌱 Archives remarquables dès maintenant
 - programmer en rețea
@@ -12,7 +12,6 @@
 
 ## 🔭 Domaines d'intérêt
 - investir automatiquement
-- algorithmes génétiques
 - programmer le niveau scăzut
 
 ## 💻 Expertise
