@@ -8,11 +8,10 @@
 - algoritmi genetici și euristici
 - structuri de date eficiente
 - metode de compresie a datelor
-- statistici
+- statistică
 
 ## 🔭 Domenii de interes
 - învățare automată
-- algoritmi genetici
 - programare la nivel scăzut
 
 ## 💻 Expertiză
