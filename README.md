@@ -14,7 +14,7 @@
 - machine learning
 - low-level programming
 
-## 💻 Expertise
+## 💻 Expertise (💣do not press the badged from below!💣)
 
 [![Assembly](https://img.shields.io/badge/_-ASM-E0E1DD.svg?style=for-the-badge&logo=assemblyscript&logoColor=black)](#)
 [![C](https://img.shields.io/badge/c-E0E1DD.svg?style=for-the-badge&logo=c&logoColor=black)](https://github.com/petru-braha/RR-application)
